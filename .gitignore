@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+terraform.tfstate
+variables.tf
+terraform.tfstate.backup
+terraform.tfvars
+.terraform/
+Deployment-instructions.md
