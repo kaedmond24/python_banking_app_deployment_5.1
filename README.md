@@ -5,7 +5,9 @@
 
 # Purpose
 
-TBA
+This deployment follows up with [Retail Banking App Deployment](https://github.com/kaedmond24/python_banking_app_deployment_5) by redeploying the retail banking app into multiple application servers.
+
+AWS cloud infrastructure is deployed using Terraform, setting up a Jenkins CI/CD server and two Web application servers running Gunicorn and Python code.
 
 ## Deployment Files:
 
